@@ -1,3 +1,5 @@
+
+# To ignore binaries #
 /_build/
 /_packages/
 /registry/

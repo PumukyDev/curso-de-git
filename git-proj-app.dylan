@@ -2,7 +2,12 @@ Module: git-proj-app
 
 define function main
     (name :: <string>, arguments :: <vector>)
-  format-out("%s\n", greeting("mundo"));
+  let mensaje = if (arguments.size < 1)
+                  "mundo"
+                else
+                  arguments[0]
+                end;
+  format-out("%s\n", greeting(mensaje));
   exit-application(0);
 end function;
 
