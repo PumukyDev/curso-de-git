@@ -2,6 +2,7 @@ Module: git-proj-app
 
 define function main
     (name :: <string>, arguments :: <vector>)
+  // si no hay argumentos poner mensaje por defecto
   let mensaje = if (arguments.size < 1)
                   "mundo"
                 else
