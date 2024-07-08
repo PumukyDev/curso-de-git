@@ -10,4 +10,4 @@ Ver fichero [LICENSE](./LICENSE)
 
 # Colaboradores
 
--Jorge Rodríguez <jordcast@outlook>
+-Jorge Rodríguez <jrodcas@proton.me>
