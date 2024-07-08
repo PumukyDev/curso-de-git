@@ -1,5 +1,6 @@
 Module: git-proj-app
-
+Author: Adrián Bertos Gómez
+Email: <adrian.bertosgomez@gmail.com>
 define function main
     (name :: <string>, arguments :: <vector>)
   // si no hay argumentos poner mensaje por defecto
