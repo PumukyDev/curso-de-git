@@ -7,3 +7,7 @@ Después aprenderemos DYLAN
 # Licencia
 
 Ver fichero [LICENSE](./LICENSE)
+
+# Colaboradores
+
+-Jorge Rodríguez <jordcast@outlook>
