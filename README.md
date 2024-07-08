@@ -6,4 +6,4 @@ Después aprenderemos DYLAN
 
 # Licencia
 
-# Ver fichero [LICENSE](./LICENSE)
+Ver fichero [LICENSE](./LICENSE)
